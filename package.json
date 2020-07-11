@@ -1,0 +1,24 @@
+{
+  "name": "pymes-ia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  	"start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omaredu/pymes-ia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omaredu/pymes-ia/issues"
+  },
+  "homepage": "https://github.com/Omaredu/pymes-ia#readme",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.1"
+  }
+}
